@@ -1,0 +1,10 @@
+/venv
+
+#enviroment files
+.env
+
+# migration files
+modu/check_test/migrations/*
+
+modu/check_test/__pycache__/*
+modu/src/__pycache__/*
